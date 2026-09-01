@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Grade Horária | Biomedicina</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main class="wrap">
+  <header class="hero">
+    <h1>Grade Horária — Biomedicina</h1>
+    <p>Consulta simplificada por período, dia, código, disciplina, docente e sala · <span id="versao"></span></p>
+  </header>
+
+  <div class="toolbar">
+    <input id="busca" type="search" placeholder="Buscar disciplina, código, docente, turma ou sala…">
+    <select id="periodo"><option value="">Todos os períodos</option></select>
+    <select id="dia"><option value="">Todos os dias</option></select>
+    <button id="limpar" type="button">Limpar filtros</button>
+  </div>
+
+  <div id="contador" class="count"></div>
+  <div id="resultado"></div>
+
+  <section class="section">
+    <h2>Optativas</h2>
+    <p class="small">Tabela mantida separadamente porque algumas ofertas possuem vários horários e observações próprias.</p>
+    <div class="table-wrap">
+      <table id="optativas">
+        <thead><tr><th>Código</th><th>Disciplina</th><th>Turma</th><th>Horário</th><th>Docente</th><th>Observações</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+<script src="script.js"></script>
+</body>
+</html>

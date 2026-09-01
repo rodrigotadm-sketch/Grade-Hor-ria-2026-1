@@ -1,0 +1,1065 @@
+{
+  "meta": {
+    "titulo": "Grade Horária — Biomedicina",
+    "subtitulo": "Consulta por período, dia e disciplina",
+    "versao": "JSON 1.0",
+    "fonte": "Conversão do post antigo",
+    "observacao": "Dados migrados automaticamente do HTML legado. Campos sem informação no post original permanecem vazios."
+  },
+  "periodos": [
+    "2º período",
+    "4º período",
+    "6º período",
+    "7º e 8º períodos"
+  ],
+  "aulas": [
+    {
+      "periodo": "2º período",
+      "dia": "Quinta-feira",
+      "inicio": "07:30",
+      "fim": "09:30",
+      "codigo": "BA071",
+      "disciplina": "ANATOMIA HUMANA SISTÊMICA",
+      "turma": "AC/BC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "DJANIRA VERONEZ",
+          "lattes": "http://lattes.cnpq.br/9947917203115255"
+        }
+      ],
+      "sala": "ANFI. 02"
+    },
+    {
+      "periodo": "2º período",
+      "dia": "Quinta-feira",
+      "inicio": "09:30",
+      "fim": "11:30",
+      "codigo": "BA071",
+      "disciplina": "ANATOMIA HUMANA SISTÊMICA",
+      "turma": "AC/BC (P)",
+      "tipo": "P",
+      "docentes": [
+        {
+          "nome": "DJANIRA VERONEZ",
+          "lattes": "http://lattes.cnpq.br/9947917203115255"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "2º período",
+      "dia": "Segunda-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "HF0407",
+      "disciplina": "BIOÉTICA",
+      "turma": "AC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "DANIEL GALANTIN",
+          "lattes": "http://lattes.cnpq.br/3881064026467115"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "2º período",
+      "dia": "Quarta-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BC080",
+      "disciplina": "BIOLOGIA CELULAR E TECIDUAL APLICADA",
+      "turma": "AC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "SÔNIA GROTZNER",
+          "lattes": "http://lattes.cnpq.br/1105325909142196"
+        }
+      ],
+      "sala": "ANFI. 08"
+    },
+    {
+      "periodo": "2º período",
+      "dia": "Quinta-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BQ086",
+      "disciplina": "METABOLISMO CELULAR E TECIDUAL",
+      "turma": "AC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "DIOGO DUCATTI",
+          "lattes": "http://lattes.cnpq.br/2032923073311145"
+        }
+      ],
+      "sala": "SALA 02"
+    },
+    {
+      "periodo": "2º período",
+      "dia": "Sexta-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BQ086",
+      "disciplina": "METABOLISMO CELULAR E TECIDUAL",
+      "turma": "AC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "DIOGO DUCATTI",
+          "lattes": "http://lattes.cnpq.br/2032923073311145"
+        }
+      ],
+      "sala": "SALA 02"
+    },
+    {
+      "periodo": "2º período",
+      "dia": "Segunda-feira",
+      "inicio": "15:30",
+      "fim": "17:30",
+      "codigo": "HF0407",
+      "disciplina": "BIOÉTICA",
+      "turma": "AC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "DANIEL GALANTIN",
+          "lattes": "http://lattes.cnpq.br/3881064026467115"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "2º período",
+      "dia": "Terça-feira",
+      "inicio": "15:30",
+      "fim": "18:30",
+      "codigo": "BC081",
+      "disciplina": "PENSAMENTO EM CIÊNCIA",
+      "turma": "AC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "MARCO RANDI",
+          "lattes": "http://lattes.cnpq.br/0203267762283972"
+        }
+      ],
+      "sala": "ANFI. 13"
+    },
+    {
+      "periodo": "2º período",
+      "dia": "Quarta-feira",
+      "inicio": "15:30",
+      "fim": "17:30",
+      "codigo": "BC080",
+      "disciplina": "BIOLOGIA CELULAR E TECIDUAL APLICADA",
+      "turma": "AC (P)",
+      "tipo": "P",
+      "docentes": [
+        {
+          "nome": "FERNANDA",
+          "lattes": "http://lattes.cnpq.br/4651679415363572"
+        },
+        {
+          "nome": "SIMAS",
+          "lattes": "http://lattes.cnpq.br/1105325909142196"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "2º período",
+      "dia": "Quinta-feira",
+      "inicio": "15:30",
+      "fim": "18:30",
+      "codigo": "BQ084",
+      "disciplina": "INTRODUÇÃO AO MÉTODO CIENTÍFICO",
+      "turma": "AC/BC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "DAVID MITCHELL",
+          "lattes": "http://lattes.cnpq.br/9183875102082026"
+        }
+      ],
+      "sala": "SALA 01"
+    },
+    {
+      "periodo": "2º período",
+      "dia": "Quinta-feira",
+      "inicio": "15:30",
+      "fim": "18:30",
+      "codigo": "BQ084",
+      "disciplina": "INTRODUÇÃO AO MÉTODO CIENTÍFICO",
+      "turma": "AC/BC (P)",
+      "tipo": "P",
+      "docentes": [
+        {
+          "nome": "DAVID MITCHELL",
+          "lattes": "http://lattes.cnpq.br/9183875102082026"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Quinta-feira",
+      "inicio": "07:30",
+      "fim": "09:30",
+      "codigo": "BG078",
+      "disciplina": "GENÉTICA PARA BIOMEDICINA",
+      "turma": "AC ( P)",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "JAQUELINE DE OLIVEIRA",
+          "lattes": "http://lattes.cnpq.br/8730828720954911"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Sexta-feira",
+      "inicio": "07:30",
+      "fim": "09:30",
+      "codigo": "BG078",
+      "disciplina": "GENÉTICA PARA BIOMEDICINA",
+      "turma": "BC (P)",
+      "tipo": "P",
+      "docentes": [
+        {
+          "nome": "JAQUELINE DE OLIVEIRA",
+          "lattes": "http://lattes.cnpq.br/8730828720954911"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Terça-feira",
+      "inicio": "09:30",
+      "fim": "11:30",
+      "codigo": "CI182",
+      "disciplina": "FUNDAMENTOS DE PROGRAMAÇÃO DE COMPUTADORES",
+      "turma": "Bmed ( T)",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "EDUARDO SPINOSA",
+          "lattes": "http://lattes.cnpq.br/6610926478721564"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Quarta-feira",
+      "inicio": "09:30",
+      "fim": "11:30",
+      "codigo": "BG078",
+      "disciplina": "GENÉTICA PARA BIOMEDICINA",
+      "turma": "AC/BC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "CAROLINA MATHIAS",
+          "lattes": "http://lattes.cnpq.br/1802836786052288"
+        }
+      ],
+      "sala": "SALA 02"
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Quinta-feira",
+      "inicio": "09:30",
+      "fim": "11:30",
+      "codigo": "CI182",
+      "disciplina": "FUNDAMENTOS DE PROGRAMAÇÃO DE COMPUTADORES",
+      "turma": "Bmed (P)",
+      "tipo": "P",
+      "docentes": [
+        {
+          "nome": "EDUARDO SPINOSA",
+          "lattes": "http://lattes.cnpq.br/6610926478721564"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Sexta-feira",
+      "inicio": "09:30",
+      "fim": "11:30",
+      "codigo": "BG078",
+      "disciplina": "GENÉTICA PARA BIOMEDICINA",
+      "turma": "AC/BC ( T)",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "CAROLINA MATHIAS",
+          "lattes": "http://lattes.cnpq.br/1802836786052288"
+        }
+      ],
+      "sala": "ANFI. 07"
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Segunda-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BP222",
+      "disciplina": "METODOLOGIA DO ENSINO EM SAÚDE II",
+      "turma": "AC/BC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        }
+      ],
+      "sala": "SALA 02"
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Terça-feira",
+      "inicio": "13:30",
+      "fim": "17:30",
+      "codigo": "BF117",
+      "disciplina": "FISIOLOGIA PARA BIOMEDICINA I",
+      "turma": "AC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "LUIZ C FERNANDES",
+          "lattes": "http://lattes.cnpq.br/4994339816158390"
+        }
+      ],
+      "sala": "ANFI. 04"
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Quarta-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BP215",
+      "disciplina": "IMUNOLOGIA",
+      "turma": "AC (P)",
+      "tipo": "P",
+      "docentes": [
+        {
+          "nome": "LARISSA ALVARENGA",
+          "lattes": "http://lattes.cnpq.br/9712638986970478"
+        }
+      ],
+      "sala": "SALA 01"
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Quinta-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BP222",
+      "disciplina": "METODOLOGIA DO ENSINO EM SAÚDE II",
+      "turma": "AC (P)",
+      "tipo": "P",
+      "docentes": [
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        }
+      ],
+      "sala": "ANFI. 04"
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Sexta-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BF117",
+      "disciplina": "FISIOLOGIA PARA BIOMEDICINA I",
+      "turma": "AC (P)",
+      "tipo": "P",
+      "docentes": [
+        {
+          "nome": "LUIZ C FERNANDES",
+          "lattes": "http://lattes.cnpq.br/4994339816158390"
+        }
+      ],
+      "sala": "ANFI. 04"
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Segunda-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BP217",
+      "disciplina": "HEMATOLOGIA APLICADA À BIOMEDICINA",
+      "turma": "AC",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "REGIANE CUNHA",
+          "lattes": "http://lattes.cnpq.br/9593864858854189"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Terça-feira",
+      "inicio": "15:30",
+      "fim": "17:30",
+      "codigo": "BP215",
+      "disciplina": "IMUNOLOGIA",
+      "turma": "AC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "LARISSA ALVARENGA",
+          "lattes": "http://lattes.cnpq.br/9712638986970478"
+        }
+      ],
+      "sala": "SALA 01"
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Quarta-feira",
+      "inicio": "15:30",
+      "fim": "17:30",
+      "codigo": "BP217",
+      "disciplina": "HEMATOLOGIA APLICADA À BIOMEDICINA",
+      "turma": "AC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "REGIANE CUNHA",
+          "lattes": "http://lattes.cnpq.br/9593864858854189"
+        }
+      ],
+      "sala": "ANFI. 06"
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Quinta-feira",
+      "inicio": "15:30",
+      "fim": "17:30",
+      "codigo": "BP222",
+      "disciplina": "METODOLOGIA DO ENSINO EM SAÚDE II",
+      "turma": "BC (P)",
+      "tipo": "P",
+      "docentes": [
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        }
+      ],
+      "sala": "ANFI. 04"
+    },
+    {
+      "periodo": "4º período",
+      "dia": "Segunda-feira",
+      "inicio": "15:30",
+      "fim": "17:30",
+      "codigo": "BP217",
+      "disciplina": "HEMATOLOGIA APLICADA À BIOMEDICINA",
+      "turma": "AC (P)",
+      "tipo": "P",
+      "docentes": [
+        {
+          "nome": "REGIANE CUNHA",
+          "lattes": "http://lattes.cnpq.br/9593864858854189"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "6º período",
+      "dia": "Terça-feira",
+      "inicio": "09:30",
+      "fim": "11:30",
+      "codigo": "BT075",
+      "disciplina": "REPRESENTAÇÃO E ANÁLISE DE DADOS",
+      "turma": "AC (T)",
+      "tipo": "T",
+      "docentes": [
+        {
+          "nome": "JANAÍNA ZANOVELI",
+          "lattes": "http://lattes.cnpq.br/6610926478721564"
+        }
+      ],
+      "sala": "SALA 07"
+    },
+    {
+      "periodo": "6º período",
+      "dia": "Quarta-feira",
+      "inicio": "09:30",
+      "fim": "11:30",
+      "codigo": "BT074",
+      "disciplina": "FARMACOLOGIA BIOMÉDICA II",
+      "turma": "A",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "JOICE DA CUNHA",
+          "lattes": "http://lattes.cnpq.br/4978491284256342"
+        }
+      ],
+      "sala": "SALA 06"
+    },
+    {
+      "periodo": "6º período",
+      "dia": "Quinta-feira",
+      "inicio": "09:30",
+      "fim": "11:30",
+      "codigo": "BQ088",
+      "disciplina": "MÉTODOS ANALÍTICOS PARA BIOMEDICINA",
+      "turma": "A",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "GUILHERME SASSAKI",
+          "lattes": "http://lattes.cnpq.br/6433828746058651"
+        }
+      ],
+      "sala": "ANFI. 15"
+    },
+    {
+      "periodo": "6º período",
+      "dia": "Sexta-feira",
+      "inicio": "08:30",
+      "fim": "11:30",
+      "codigo": "MAC048",
+      "disciplina": "PRÁTICAS ESPECÍFICAS EM ANÁLISES CLÍNICAS",
+      "turma": "A",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "ALINE HAUSER",
+          "lattes": "http://lattes.cnpq.br/7834327258340015"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "6º período",
+      "dia": "Segunda-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BT074",
+      "disciplina": "FARMACOLOGIA BIOMÉDICA II",
+      "turma": "A",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "JOICE DA CUNHA",
+          "lattes": "http://lattes.cnpq.br/4978491284256342"
+        }
+      ],
+      "sala": "SALA 05"
+    },
+    {
+      "periodo": "6º período",
+      "dia": "Terça-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BP220",
+      "disciplina": "RELAÇÕES PATÓGENO HOSPEDEIRO",
+      "turma": "A",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        }
+      ],
+      "sala": ""
+    },
+    {
+      "periodo": "6º período",
+      "dia": "Quarta-feira",
+      "inicio": "13:30",
+      "fim": "16:30",
+      "codigo": "BP220",
+      "disciplina": "RELAÇÕESPATÓGENOHOSPEDEIRO",
+      "turma": "A",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        }
+      ],
+      "sala": "SALA 02"
+    },
+    {
+      "periodo": "6º período",
+      "dia": "Quinta-feira",
+      "inicio": "13:30",
+      "fim": "15:30",
+      "codigo": "BQ088",
+      "disciplina": "MÉTODOS ANALÍTICOS PARA BIOMEDICINA",
+      "turma": "A",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "GUILHERME SASSAKI",
+          "lattes": "http://lattes.cnpq.br/6433828746058651"
+        }
+      ],
+      "sala": "ANFI. 15"
+    },
+    {
+      "periodo": "6º período",
+      "dia": "Segunda-feira",
+      "inicio": "15:30",
+      "fim": "18:30",
+      "codigo": "BP219",
+      "disciplina": "REDAÇÃO DE PROJETOS CIENTÍFICOS",
+      "turma": "AC",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "ADRIANA MERCADANTE",
+          "lattes": "http://lattes.cnpq.br/4805245493035862"
+        }
+      ],
+      "sala": "ANFI. 04"
+    },
+    {
+      "periodo": "6º período",
+      "dia": "Terça-feira",
+      "inicio": "15:30",
+      "fim": "18:30",
+      "codigo": "BC082",
+      "disciplina": "BIOMARCADORES DE CONTAMINAÇÃO AMBIENTAL",
+      "turma": "A",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "MARITANA PRODOCIMO",
+          "lattes": "http://lattes.cnpq.br/3045611249911893"
+        }
+      ],
+      "sala": "ANFI. 07"
+    },
+    {
+      "periodo": "7º e 8º períodos",
+      "dia": "Segunda-feira",
+      "inicio": "",
+      "fim": "",
+      "codigo": "BMED019",
+      "disciplina": "TRABALHO DE CONCLUSAO DE CURSO",
+      "turma": "",
+      "tipo": "",
+      "docentes": [],
+      "sala": ""
+    },
+    {
+      "periodo": "7º e 8º períodos",
+      "dia": "Quarta-feira",
+      "inicio": "",
+      "fim": "",
+      "codigo": "BMED020",
+      "disciplina": "ESTAGIO SUPERVISIONADO I",
+      "turma": "",
+      "tipo": "",
+      "docentes": [
+        {
+          "nome": "ALINE HAUSER",
+          "lattes": "http://lattes.cnpq.br/7834327258340015"
+        },
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "nome": "JAQUELINE DE OLIVEIRA",
+          "lattes": "http://lattes.cnpq.br/8730828720954911"
+        }
+      ],
+      "sala": ""
+    }
+  ],
+  "optativas": [
+    {
+      "codigo": "BB103",
+      "disciplina": "MÉTODOS PARA IDENTIFICAÇÃO DE PLANTAS MEDICINAIS",
+      "turma": "Bmed",
+      "horario": "Sexta-Feira – 15:30 – 18:30",
+      "docentes": [
+        {
+          "nome": "ELIZABETH DE ARAUJO SCHWARZ",
+          "lattes": "http://lattes.cnpq.br/4333316060869581"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "BMED022",
+      "disciplina": "ESTÁGIO SUPERVISIONADO EM COLETA BIOLÓGICA",
+      "turma": "A",
+      "horario": "Segunda-Feira: 07:30 – 11:30,\nTerça-Feira: 07:30 – 11:30",
+      "docentes": [
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "nome": "JAQUELINE DE OLIVEIRA",
+          "lattes": "http://lattes.cnpq.br/8730828720954911"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "BMED022",
+      "disciplina": "ESTÁGIO SUPERVISIONADO EM COLETA BIOLÓGICA",
+      "turma": "B",
+      "horario": "Quarta-Feira: 07:30 – 11:30,\nSexta-Feira: 07:30 – 11:30",
+      "docentes": [
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "nome": "JAQUELINE DE OLIVEIRA",
+          "lattes": "http://lattes.cnpq.br/8730828720954911"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "BMED022",
+      "disciplina": "ESTÁGIO SUPERVISIONADO EM COLETA BIOLÓGICA",
+      "turma": "C",
+      "horario": "Segunda-Feira: 13:30 – 17:30;\nQuinta-Feira: 07:30 – 11:30",
+      "docentes": [
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "nome": "JAQUELINE DE OLIVEIRA",
+          "lattes": "http://lattes.cnpq.br/8730828720954911"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "BMED022",
+      "disciplina": "ESTÁGIO SUPERVISIONADO EM COLETA BIOLÓGICA",
+      "turma": "D",
+      "horario": "Terça-Feira: 13:30 – 17:30,\nQuinta-Feira: 13:30 – 17:30",
+      "docentes": [
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "nome": "JAQUELINE DE OLIVEIRA",
+          "lattes": "http://lattes.cnpq.br/8730828720954911"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "BMED022",
+      "disciplina": "ESTÁGIO SUPERVISIONADO EM COLETA BIOLÓGICA",
+      "turma": "E",
+      "horario": "Quinta-Feira: 13:30 – 17:30,\nSexta-Feira: 13:30 – 17:30",
+      "docentes": [
+        {
+          "nome": "CAMILA MARCON",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "nome": "JAQUELINE DE OLIVEIRA",
+          "lattes": "http://lattes.cnpq.br/8730828720954911"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "BQ092",
+      "disciplina": "MODELAGEM MATEMÁTICA EM CIÊNCIAS BIOLÓGICAS",
+      "turma": "Bmed – B",
+      "horario": "Quarta-Feira: 17:30 – 19:30",
+      "docentes": [
+        {
+          "nome": "DAVID MITCHELL",
+          "lattes": "http://lattes.cnpq.br/9183875102082026"
+        }
+      ],
+      "observacoes": "SALA 02"
+    },
+    {
+      "codigo": "BT058",
+      "disciplina": "FISIOPATOLOGIA E FARMACOLOGIA DA DOR",
+      "turma": "Bmed",
+      "horario": "Terça-Feira: 15:30 – 17:30,",
+      "docentes": [
+        {
+          "nome": "JOICE DA CUNHA",
+          "lattes": "http://lattes.cnpq.br/4978491284256342"
+        }
+      ],
+      "observacoes": "SALA 04"
+    },
+    {
+      "codigo": "LIB038",
+      "disciplina": "COMUNICAÇÃO EM LÍNGUA BRASILEIRA DE SINAIS-LIBRA",
+      "turma": "Bmed",
+      "horario": "Terça-Feira: 13:30 – 17:30",
+      "docentes": [],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC038",
+      "disciplina": "BACTERIOLOGIA CLÍNICA",
+      "turma": "Bmed – A",
+      "horario": "Segunda-Feira: 11:30 – 12:30,\nQuarta-Feira: 07:30 -10:30",
+      "docentes": [
+        {
+          "nome": "WESLEY SOUZA",
+          "lattes": "http://lattes.cnpq.br/4550015768205145"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC038",
+      "disciplina": "BACTERIOLOGIA CLÍNICA",
+      "turma": "Bmed -B",
+      "horario": "Segunda-Feira: 11:30 – 12:30,\nQuinta-Feira: 08:30 – 11:30",
+      "docentes": [
+        {
+          "nome": "WESLEY SOUZA",
+          "lattes": "http://lattes.cnpq.br/4550015768205145"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC038",
+      "disciplina": "BACTERIOLOGIA CLÍNICA",
+      "turma": "Bmed -C",
+      "horario": "Segunda-Feira: 11:30 – 12:30,\nSexta-Feira: 13:30 – 16:30",
+      "docentes": [
+        {
+          "nome": "WESLEY SOUZA",
+          "lattes": "http://lattes.cnpq.br/4550015768205145"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC046",
+      "disciplina": "IMUNOLOGIA CLÍNICA",
+      "turma": "Bmed-A",
+      "horario": "Segunda-Feira: 14:30 – 15:30,\nTerça-Feira: 08:30 – 12:30",
+      "docentes": [
+        {
+          "nome": "GLAUCIO VALDAMERI",
+          "lattes": "http://lattes.cnpq.br/9897630183923653"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC046",
+      "disciplina": "IMUNOLOGIA CLÍNICA",
+      "turma": "Bmed – B",
+      "horario": "Segunda-Feira: 14:30 – 15:30\nQuarta-Feira: 08:30 – 12:30,",
+      "docentes": [
+        {
+          "nome": "GLAUCIO VALDAMERI",
+          "lattes": "http://lattes.cnpq.br/9897630183923653"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC046",
+      "disciplina": "IMUNOLOGIA CLÍNICA",
+      "turma": "Bmed -C",
+      "horario": "Segunda-Feira: 14:30 – 15:30\nQuinta-Feira: 08:30 – 12:30",
+      "docentes": [
+        {
+          "nome": "GLAUCIO VALDAMERI",
+          "lattes": "http://lattes.cnpq.br/9897630183923653"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC046",
+      "disciplina": "IMUNOLOGIA CLÍNICA",
+      "turma": "Bmed- D",
+      "horario": "Segunda-Feira: 14:30 – 15:30\nSexta-Feira: 13:30 – 17:30",
+      "docentes": [
+        {
+          "nome": "GLAUCIO VALDAMERI",
+          "lattes": "http://lattes.cnpq.br/9897630183923653"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC048",
+      "disciplina": "PRÁTICAS ESPECÍFICAS EM ANÁLISES CLÍNICAS",
+      "turma": "Bmed – B",
+      "horario": "Segunda-Feira: 13:30 – 16:30",
+      "docentes": [
+        {
+          "nome": "ALINE HAUSER",
+          "lattes": "http://lattes.cnpq.br/7834327258340015"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC048",
+      "disciplina": "PRÁTICAS ESPECÍFICAS EM ANÁLISES CLÍNICAS",
+      "turma": "Bmed – C",
+      "horario": "Terça-Feira: 08:30 – 11:30",
+      "docentes": [
+        {
+          "nome": "ALINE HAUSER",
+          "lattes": "http://lattes.cnpq.br/7834327258340015"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC048",
+      "disciplina": "PRÁTICAS ESPECÍFICAS EM ANÁLISES CLÍNICAS",
+      "turma": "Bmed – D",
+      "horario": "Quarta-Feira: 08:30 – 11:30",
+      "docentes": [
+        {
+          "nome": "ALINE HAUSER",
+          "lattes": "http://lattes.cnpq.br/7834327258340015"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC048",
+      "disciplina": "PRÁTICAS ESPECÍFICAS EM ANÁLISES CLÍNICAS",
+      "turma": "Bmed – E",
+      "horario": "Quinta-Feira: 08:30 – 11:30",
+      "docentes": [
+        {
+          "nome": "ALINE HAUSER",
+          "lattes": "http://lattes.cnpq.br/7834327258340015"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC048",
+      "disciplina": "PRÁTICAS ESPECÍFICAS EM ANÁLISES CLÍNICAS",
+      "turma": "Bmed – F",
+      "horario": "Quinta-Feira: 13:30 – 16:30",
+      "docentes": [
+        {
+          "nome": "ALINE HAUSER",
+          "lattes": "http://lattes.cnpq.br/7834327258340015"
+        }
+      ],
+      "observacoes": ""
+    },
+    {
+      "codigo": "MAC040",
+      "disciplina": "CITOLOGIA CLÍNICA E LIQUIDOS BIOLÓGICOS",
+      "turma": "A",
+      "horario": "Terça-Feira: 09:30 – 10:30,\nTerça-Feira: 10:30 – 12:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    },
+    {
+      "codigo": "MAC040",
+      "disciplina": "CITOLOGIA CLÍNICA E LIQUIDOS BIOLÓGICOS",
+      "turma": "B",
+      "horario": "Terça-Feira: 09:30 – 10:30,\nTerça-Feira: 13:30 – 15:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    },
+    {
+      "codigo": "MAC040",
+      "disciplina": "CITOLOGIA CLÍNICA E LIQUIDOS BIOLÓGICOS",
+      "turma": "C",
+      "horario": "Terça-Feira: 09:30 – 10:30,\nTerça-Feira: 15:30 – 17:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    },
+    {
+      "codigo": "MAC040",
+      "disciplina": "CITOLOGIA CLÍNICA E LIQUIDOS BIOLÓGICOS",
+      "turma": "D",
+      "horario": "Terça-Feira: 09:30 – 10:30,\nQuarta-Feira: 13:30 – 15:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    },
+    {
+      "codigo": "MAC039",
+      "disciplina": "PARASITOLOGIA",
+      "turma": "A",
+      "horario": "Segunda-feira :16:30-17:30\nQuarta- Feira: 8:30-10:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    },
+    {
+      "codigo": "MAC039",
+      "disciplina": "PARASITOLOGIA",
+      "turma": "B",
+      "horario": "Segunda-feira :16:30-17:30\nQuarta- Feira: 10:30-12:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    },
+    {
+      "codigo": "MAC039",
+      "disciplina": "PARASITOLOGIA",
+      "turma": "C",
+      "horario": "Segunda-feira :16:30-17:30\nQuarta- Feira: 13:30-15:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    },
+    {
+      "codigo": "MAC039",
+      "disciplina": "PARASITOLOGIA",
+      "turma": "D",
+      "horario": "Segunda-feira :16:30-17:30\nQuarta- Feira: 15:30-17:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    },
+    {
+      "codigo": "MAC044",
+      "disciplina": "PARASITOLOGIA",
+      "turma": "A",
+      "horario": "Segunda-feira :13:30-14:30\nSegunda-feira :14:30-16:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    },
+    {
+      "codigo": "MAC044",
+      "disciplina": "PARASITOLOGIA",
+      "turma": "B",
+      "horario": "Segunda-feira :13:30-14:30\nTerça-feira :13:30-15:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    },
+    {
+      "codigo": "MAC044",
+      "disciplina": "PARASITOLOGIA",
+      "turma": "B",
+      "horario": "Segunda-feira :13:30-14:30\nTerça-feira :15:30-17:30",
+      "docentes": [],
+      "observacoes": "Obrigatória Fármácia, vagas remanescentes"
+    }
+  ]
+}

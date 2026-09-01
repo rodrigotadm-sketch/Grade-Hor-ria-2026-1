@@ -1,0 +1,33 @@
+
+:root{
+  --verde:#176b45;--verde2:#0f5637;--verde-claro:#edf7f2;--borda:#d8e5de;
+  --texto:#17352a;--muted:#667a71;--fundo:#f7faf8;--branco:#fff;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--fundo);color:var(--texto)}
+.wrap{max-width:1180px;margin:auto;padding:24px}
+.hero{background:linear-gradient(135deg,var(--verde2),var(--verde));color:#fff;padding:28px;border-radius:18px;margin-bottom:18px}
+.hero h1{margin:0 0 6px;font-size:clamp(1.7rem,4vw,2.5rem)}
+.hero p{margin:0;opacity:.92}
+.toolbar{display:grid;grid-template-columns:2fr 1fr 1fr auto;gap:10px;background:#fff;padding:14px;border:1px solid var(--borda);border-radius:14px;position:sticky;top:8px;z-index:10}
+input,select,button{font:inherit;border:1px solid var(--borda);border-radius:10px;padding:11px 12px;background:#fff}
+button{cursor:pointer;background:var(--verde);color:#fff;border-color:var(--verde);font-weight:700}
+.count{margin:14px 2px;color:var(--muted)}
+.section{margin-top:26px}
+.section h2{font-size:1.35rem}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+.card{background:#fff;border:1px solid var(--borda);border-radius:14px;padding:15px;box-shadow:0 2px 9px rgba(20,70,45,.05)}
+.code{display:inline-block;background:var(--verde-claro);color:var(--verde2);font-weight:800;border-radius:999px;padding:4px 9px;font-size:.85rem}
+.card h3{margin:10px 0 8px;font-size:1.05rem}
+.meta{display:grid;gap:5px;color:#40594f;font-size:.93rem}
+.docentes a{color:var(--verde2);font-weight:650;text-decoration:none}
+.empty{background:#fff;border:1px dashed var(--borda);padding:30px;border-radius:14px;text-align:center;color:var(--muted)}
+.table-wrap{overflow:auto;background:#fff;border:1px solid var(--borda);border-radius:14px}
+table{border-collapse:collapse;width:100%;min-width:850px}
+th,td{padding:12px;border-bottom:1px solid var(--borda);text-align:left;vertical-align:top}
+th{background:var(--verde-claro);color:var(--verde2)}
+.small{font-size:.87rem;color:var(--muted)}
+@media(max-width:760px){
+ .wrap{padding:12px}.toolbar{grid-template-columns:1fr 1fr}.toolbar input{grid-column:1/-1}.toolbar button{grid-column:1/-1}
+ .hero{border-radius:14px;padding:20px}.cards{grid-template-columns:1fr}
+}
